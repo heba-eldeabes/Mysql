@@ -54,10 +54,10 @@
 ![img7](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2015-10-11.png)
 ![img8](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2015-11-13.png)
 ![img9](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2015-11-44.png)
-![img10](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2016-16-38.png)
+
 ![img11](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2016-21-14.png)
 ![img12](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2016-22-41.png)
-![img13](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2016-47-06.png)
+
 ![img14](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-14%2010-55-13.png)
 ![img15](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-14%2011-02-08.png)
 ![img16](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-14%2011-11-37.png)
