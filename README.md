@@ -1,1 +1,6 @@
-# Mysql
+# Mysql 
+  ## Install MYSQL DBMS.
+  ## 2.Design ERD and write down the mapping schema. 
+![img1](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-07%2000-28-01.png)
+  ## electronic_gradekeeping database
+  ## Entities:
