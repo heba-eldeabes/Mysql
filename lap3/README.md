@@ -5,4 +5,6 @@
  ## 2. Add birth date column for the student table.
 
 ## 3. Delete the name column and replace it with two columns first name and last name.
- ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-16%2022-52-47.png)
+ ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-16%2022-52-47.png) 
+ ## 4. Add foreign key constrains in Your Tables with options on delete cascaded. 
+ ![img2](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-16%2023-06-41.png)
