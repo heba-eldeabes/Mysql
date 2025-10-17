@@ -37,6 +37,7 @@
  ## 11.Display subjects and their max score sorted by max score.
  ![img21](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-17%2001-09-46.png) 
   ## 12.Display the subject with highest max score 
+  ![img22](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-17%2022-11-45.png)
    ## 13.Display students’ names that begin with A. 
    ![img23](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-17%2001-09-46.png) 
    ## 14.Display the number of students’ their name is “HEBA” 
