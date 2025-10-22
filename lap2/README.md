@@ -43,7 +43,6 @@
 ## 3.Create your mapped tables with their columns.
 
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2014-19-36.png) 
-![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2014-19-45.png) 
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2014-20-21.png) 
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2014-20-37.png)
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-13%2014-55-25.png) 
