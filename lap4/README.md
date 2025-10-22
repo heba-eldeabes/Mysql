@@ -15,4 +15,18 @@
 ![img9](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-21%2008-23-42.png) 
 ## 6. Add new exam result, in date column use NOW 
 ![img10](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-21%2008-33-30.png)
- ![img11](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-21%2008-33-46.png)
+ ![img11](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-21%2008-33-46.png) 
+ ## 7. Create Hello world function which take username and return welcome message to user using his name 
+ ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2016-23-14.png)  
+ ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2016-27-45.png)
+ ## 8. Create multiply function which take two number and return the multiply of them
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2016-45-57.png)
+##  9. Create function which takes student id and Exam id and return score the student in Exam.
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2017-56-36.png) 
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2017-56-24.png)
+## 10. Create function which takes Exam id and return the number of students who failed in a Exam (Score less than 50). 
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2018-13-51.png)
+
+## 11. Create function which take subject name and return the average of max grades for subject 
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2018-44-21.png) 
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2018-44-30.png)
