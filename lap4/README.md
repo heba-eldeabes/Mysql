@@ -32,4 +32,6 @@
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-22%2018-44-30.png) 
 ## 12. Create Table called Deleted_Students which will hold the deleted students info(same columns as in student tables) 
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2019-04-04.png) 
-![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2019-04-11.png)
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2019-04-11.png)  
+## 13. Create trigger to save the deleted student from Student table to Deleted_Students.
+![img]()
