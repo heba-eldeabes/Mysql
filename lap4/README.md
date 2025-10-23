@@ -39,4 +39,9 @@
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-28-07.png) 
 ## 14. Create trigger to save the newly added students to Student table to Backup_Students. 
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-44-02.png) 
-![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-43-46.png)
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-43-46.png) 
+
+
+## 16. Dump your database (Grading Database) into SQL file.
+![img]()
+![img]()
