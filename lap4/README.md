@@ -36,4 +36,7 @@
 ## 13. Create trigger to save the deleted student from Student table to Deleted_Students.
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-20-10.png) 
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-28-19.png)
-![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-28-07.png)
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-28-07.png) 
+## 14. Create trigger to save the newly added students to Student table to Backup_Students. 
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-44-02.png) 
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2021-43-46.png)
