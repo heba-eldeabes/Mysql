@@ -43,5 +43,5 @@
 
 
 ## 16. Dump your database (Grading Database) into SQL file.
-![img]()
-![img]()
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2022-04-23.png)
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2022-04-28.png)
