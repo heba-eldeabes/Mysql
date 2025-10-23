@@ -49,3 +49,7 @@
 ## 17. Dump Students table into file.
 
 ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2022-10-27.png)
+ ## 18. Import SQL file into your backup database (Grading_Backup Database) 
+ ![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2022-16-36.png)
+![img](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-23%2022-16-51.png)
+
