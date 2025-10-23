@@ -10,7 +10,7 @@
 ![img6](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-21%2008-06-44.png) 
  ## 4. Display the name of students with their Rounded score in each Exam 
  ![img7](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-20%2016-41-49.png) 
- ![img8]() 
+ ![img8](https://github.com/heba-eldeabes/Mysql/blob/main/img/Pasted%20image%20(2).png) 
 ## 5. Display the name of students with the year of Birthdate 
 ![img9](https://github.com/heba-eldeabes/Mysql/blob/main/img/Screenshot%20from%202025-10-21%2008-23-42.png) 
 ## 6. Add new exam result, in date column use NOW 
